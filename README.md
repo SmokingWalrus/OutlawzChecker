@@ -4,5 +4,8 @@ Here Boi's. Everyone should have their own! btw Brisk where are the webrequests 
 BTW THANKS FOR BRISK- EASY SKIDD
 
 #library are the dll's you need to import manually!
-
 I may add one day how to use all the other stuff but for now im too lazy and did it just for the lulz
+
+
+
+![Image of Yaktocat](https://cdn.discordapp.com/attachments/740150298361856071/740152629186789376/unknown.png)
