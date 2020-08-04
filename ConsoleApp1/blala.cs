@@ -148,7 +148,7 @@ namespace ConsoleApp1
 
                 java.security.KeyFactory factory = java.security.KeyFactory.getInstance("RSA");
                 java.security.PublicKey publicKey = factory.generatePublic(
-                    new java.security.spec.RSAPublicKeySpec(new java.math.BigInteger(1, com.JB.core.Session.serverKey),
+                    new java.security.spec.RSAPublicKeySpec(new java.math.BigInteger(1, serverKey),
                         java.math.BigInteger.valueOf(65537)));
                 java.security.Signature sig = java.security.Signature.getInstance("SHA1withRSA");
                 sig.initVerify(publicKey);
