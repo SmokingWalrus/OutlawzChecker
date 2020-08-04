@@ -10,3 +10,9 @@ I may add one day how to use all the other stuff but for now im too lazy and did
 
 ![SchwerBehindertenAusweis](https://cdn.discordapp.com/attachments/740150298361856071/740152629186789376/unknown.png)
 ![SchwerBehindertenAusweis](https://gyazo.com/a2dc8941404be53f066668a40ea35b5b.png)
+
+  
+  
+  
+ ######THE ULTIMATE SKID EXPERIENCE
+![SchwerBehindertenAusweis](https://i.ytimg.com/vi/_3tKx5C8mh4/maxresdefault.jpg)
